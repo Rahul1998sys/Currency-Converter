@@ -1,6 +1,6 @@
 # Currency Converter
 
-![Currency Converter](https://github.com/Rahul1998sys/Currency-Converter.git)
+(https://github.com/Rahul1998sys/Currency-Converter.git)
 
 ## 📌 Introduction
 This is a simple **Currency Converter** web application built using **HTML, CSS, and JavaScript**. It allows users to convert one currency to another using real-time exchange rates fetched from an API.
