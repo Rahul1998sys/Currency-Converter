@@ -36,7 +36,7 @@ This is a simple **Currency Converter** web application built using **HTML, CSS,
 ---
 
 ## 📷 Project Preview
-![Currency Converter Preview](https://via.placeholder.com/600x300?text=Project+Screenshot)
+![Currency Converter Preview] (https://i.ibb.co/pvd2vMWQ/Currency-Converter.png)
 
 ---
 
