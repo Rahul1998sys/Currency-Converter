@@ -51,7 +51,6 @@ If you encounter an API error:
 ## 📬 Connect with Me
 📧 Email: rahulsaxena1698@gmail.com  
 💻 GitHub: [your-username](https://github.com/Rahul1998sys)  
-🌐 Portfolio: [your-website.com](file:///C:/Users/Dell/Desktop/Desktop%20Files/Projects/Portfolio%20Template%20Website/index.html)  
 
 ---
 
