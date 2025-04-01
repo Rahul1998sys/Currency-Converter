@@ -1,6 +1,6 @@
 # Currency Converter
 
-![Currency Converter](https://via.placeholder.com/800x400?text=Currency+Converter+Project)
+![Currency Converter](file:///C:/Users/Dell/Desktop/Desktop%20Files/Desktop's%20Application/HTML,CSS,JS/JavaScript/MiniProject%203_-_Currency_Converter/Index.html)
 
 ## 📌 Introduction
 This is a simple **Currency Converter** web application built using **HTML, CSS, and JavaScript**. It allows users to convert one currency to another using real-time exchange rates fetched from an API.
